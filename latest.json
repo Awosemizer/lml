@@ -1,0 +1,9 @@
+{
+  "versionName": "0.7.0",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/Awosemizer/lml/releases/download/v0.7.0/lml-v0.7.0.apk",
+  "sha256": "e9e384cc8019ae8ccd79707c1dba867a2852202cb2c37725e040208f1a76ec75",
+  "size": 6248405,
+  "notes": "LML 0.7.0: calendario de clases, recordatorios con sonido, Muro, Ajustes, editor de ejercicios, sonidos y temas de temporada. Para instalar descarga el APK en tu Android; desde esta versión la app se actualiza sola.",
+  "date": "2026-10-13T23:18:38.865Z"
+}
