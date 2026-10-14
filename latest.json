@@ -1,9 +1,9 @@
 {
-  "versionName": "0.9.0",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/Awosemizer/lml/releases/download/v0.9.0/lml-v0.9.0.apk",
-  "sha256": "d77ac1576427b866b927e916e8e989c39c0d90d1a4f7f9d82d1658802d0bbd8a",
-  "size": 6789465,
+  "versionName": "0.9.1",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/Awosemizer/lml/releases/download/v0.9.1/lml-v0.9.1.apk",
+  "sha256": "e77c1bfe02c8ad348948a41ee9c609e44865c7106b5fa97fb6d15be767520d38",
+  "size": 6793452,
   "notes": "",
-  "date": "2026-10-14T04:10:59.620Z"
+  "date": "2026-10-14T05:02:17.733Z"
 }
