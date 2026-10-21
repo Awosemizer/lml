@@ -2,4 +2,4 @@
 
 Versión web: https://awosemizer.github.io/lml/
 
-Este repositorio solo contiene el sitio ya construido (v1.2.0).
+Este repositorio solo contiene el sitio ya construido (v1.3.0).
