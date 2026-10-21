@@ -1,1 +1,0 @@
-const n=/^[a-z0-9][a-z0-9._-]{2,23}$/,r=e=>e.trim().toLowerCase();function o(e,a){if(!n.test(r(e)))throw new Error("El usuario debe tener de 3 a 24 caracteres: letras minúsculas, números, punto, guion o guion bajo (sin espacios ni acentos).");if(a!==void 0&&a.length<8)throw new Error("La contraseña debe tener al menos 8 caracteres.")}export{r as n,o as v};

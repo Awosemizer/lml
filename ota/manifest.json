@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "nativeBuild": 14,
-  "url": "https://awosemizer.github.io/lml/ota/lml-bundle-1.0.1.zip",
-  "sha256": "41a46768b5c51f18c11668b4ea4b757aa061145749c3395e1951ede03c14e19d",
-  "size": 2846551,
-  "date": "2026-10-17T01:51:42.956Z"
+  "version": "1.1.0",
+  "nativeBuild": 15,
+  "url": "https://awosemizer.github.io/lml/ota/lml-bundle-1.1.0.zip",
+  "sha256": "5035fddc56349aecf94bb3699475fa96af6b6f86141a1a567e3dac79b608f217",
+  "size": 2938712,
+  "date": "2026-10-21T05:06:12.343Z"
 }
