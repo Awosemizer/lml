@@ -1,9 +1,9 @@
 {
-  "versionName": "1.8.1",
-  "versionCode": 23,
-  "apkUrl": "https://github.com/Awosemizer/lml/releases/download/v1.8.1/lml-v1.8.1.apk",
-  "sha256": "940887be75078725a6975335cbc3fac1b6bc77cd4ee131a66bf2e134a799233c",
-  "size": 8473954,
-  "notes": "",
-  "date": "2026-10-30T16:18:42.164Z"
+  "versionName": "1.9.0",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/Awosemizer/lml/releases/download/v1.9.0/lml-v1.9.0.apk",
+  "sha256": "d666cc1fe8827b85368334538bd89143d4e96bbb37922ea47289924d6d2d635a",
+  "size": 8499694,
+  "notes": "LML 1.9.0: afinador nuevo, lecciones con diseño visual, Dar clase desde el panel, editor visual de lecciones, editor de ejercicios, respaldo con un botón, pulido y manual.",
+  "date": "2026-11-04T16:22:38.055Z"
 }
